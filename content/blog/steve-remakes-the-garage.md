@@ -22,3 +22,7 @@ We got the framing up and the wall put in, and we needed something to act as a m
 Not to long after we found a roll of plastic that was probably actually meant to be used in this way. So we grabbed that up and finished the door. We still need to put the siding up, but its most of the way finished.
 
 <img src="../../static/assets/door_finished.jpg" />
+
+He then kept on going and fixed one of our soffits with Nikki.
+
+<img src="../../static/assets/soffit_finished.jpg" />
