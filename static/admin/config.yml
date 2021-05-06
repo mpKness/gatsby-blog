@@ -4,11 +4,12 @@ backend:
 
 media_folder: static/assets
 public_folder: /assets
+publish_mode: editorial_workflow
 
 collections:
   - name: blog
-    label: Blog
-    folder: content/blog
+    label: House Blog
+    folder: content/house-blog
     create: true
     fields:
       - { name: path, label: Path }
