@@ -54,12 +54,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-primary: #005b99; /* blue */
+  --color-text: #2e353f; /* dark gray */
+  --color-text-light: #4f5969; /* a little lighter dark gray */
+  --color-heading: #1a202c; /* a darker dark gray*/
+  --color-heading-black: black;/* */
+  --color-accent: #d1dce5; /* light blueish gray */
 }
 
 /* HTML elements */

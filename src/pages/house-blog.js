@@ -6,7 +6,8 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
+  // const siteTitle = data.site.siteMetadata?.title || `Title`
+  const siteTitle = 'HOME'
   const posts = data.allMarkdownRemark.nodes
 
   if (posts.length === 0) {
@@ -30,7 +31,7 @@ const BlogIndex = ({ data, location }) => {
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
-
+          console.log(post);
           return (
             <li key={post.fields.slug}>
               <article
